@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:31:31 -0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:31:55 -0700] "GET /MavenWebApp/home HTTP/1.1" 404 983 http-bio-8080-exec-3 12
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:31:59 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 404 997 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:33:37 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 7998 http-bio-8080-exec-1 868
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:35:44 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 7998 http-bio-8080-exec-3 197
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:35:47 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 7998 http-bio-8080-exec-4 178
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:35:51 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 7998 http-bio-8080-exec-5 172
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:35:51 -0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:45:57 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 23948 http-bio-8080-exec-8 86
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:45:58 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 23948 http-bio-8080-exec-9 88
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:46:01 -0700] "GET /MavenWebApp/home.action HTTP/1.1" 500 23948 http-bio-8080-exec-10 106
+0:0:0:0:0:0:0:1 - - [06/Dec/2019:01:46:01 -0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
